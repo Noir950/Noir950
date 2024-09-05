@@ -16,3 +16,9 @@ Noir950/Noir950 is a ✨ special ✨ repository because its `README.md` (this fi
 -- << GOJO HUB LOADER >>
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Sakupenny/Main/main/GojoHub.lua'))()
 https://raw.githubusercontent.com/Sakupenny/Main/main/GojoHub.lua'))(
+
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+-- << GOJO HUB LOADER >>
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sakupenny/Main/main/GojoHub.lua'))()
